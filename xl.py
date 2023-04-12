@@ -99,6 +99,7 @@ logo = ("""\033[1;32m
 
 \033[1;91m<═══\033[1;41m\033[1;97m THIS NAME IS JISAN BRAND\033[;0m\033[1;91m═══>\033[1;92m""")
 
+os.system('xdg-open https://www.facebook.com/TurRealabbu1')
 
 class Main:
     def __init__(self):
